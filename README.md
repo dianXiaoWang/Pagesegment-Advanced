@@ -1,5 +1,5 @@
 # SegmentViewAdvanced
-![效果动画]()
+![效果动画](https://github.com/dianXiaoWang/Pagesegment-Advanced/blob/master/SegmentViewAdvanced.gif)
 ### 使用方法
 ```
 // 创建一个TableView
